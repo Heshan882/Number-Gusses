@@ -1,0 +1,26 @@
+.arts{
+    text-align: center;
+    color: black;
+    background-color: bisque;
+    
+
+}
+
+.words{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 1%;
+    padding: 1%;
+
+
+}
+
+
+.but{
+    color: white;
+    background-color: black;
+    padding: 1%;
+    border-radius: 20px;
+    border-color: blue;
+    border-width: 2px;
+
+}
